@@ -1,1 +1,3 @@
-oi
+<?php 
+echo "oi oi";
+?>
